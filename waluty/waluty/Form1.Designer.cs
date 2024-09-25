@@ -45,11 +45,12 @@
             // 
             // button1
             // 
-            button1.Location = new Point(300, 368);
+            button1.Font = new Font("Segoe UI", 20F);
+            button1.Location = new Point(275, 321);
             button1.Name = "button1";
-            button1.Size = new Size(229, 23);
+            button1.Size = new Size(298, 88);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "Zamień";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -143,7 +144,7 @@
             groupBox1.Size = new Size(172, 171);
             groupBox1.TabIndex = 16;
             groupBox1.TabStop = false;
-            groupBox1.Text = "groupBox1";
+            groupBox1.Text = "Waluty";
             // 
             // Form1
             // 

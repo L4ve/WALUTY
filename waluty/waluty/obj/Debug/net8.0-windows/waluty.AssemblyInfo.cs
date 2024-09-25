@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("waluty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57cb2c4e4ce64df0a8e85188be7b7bbf622dc796")]
 [assembly: System.Reflection.AssemblyProductAttribute("waluty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("waluty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
