@@ -1,0 +1,16 @@
+C:\Users\4058963\source\repos\waluty\waluty\bin\Debug\net8.0-windows\waluty.exe
+C:\Users\4058963\source\repos\waluty\waluty\bin\Debug\net8.0-windows\waluty.deps.json
+C:\Users\4058963\source\repos\waluty\waluty\bin\Debug\net8.0-windows\waluty.runtimeconfig.json
+C:\Users\4058963\source\repos\waluty\waluty\bin\Debug\net8.0-windows\waluty.dll
+C:\Users\4058963\source\repos\waluty\waluty\bin\Debug\net8.0-windows\waluty.pdb
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.Form1.resources
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.csproj.GenerateResource.cache
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.AssemblyInfoInputs.cache
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.AssemblyInfo.cs
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.csproj.CoreCompileInputs.cache
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.dll
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\refint\waluty.dll
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.pdb
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\waluty.genruntimeconfig.cache
+C:\Users\4058963\source\repos\waluty\waluty\obj\Debug\net8.0-windows\ref\waluty.dll
